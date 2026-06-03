@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Mini Data Explorer
 
 Una aplicación web simple construida con Streamlit para explorar y visualizar datos de archivos CSV de manera interactiva.
@@ -59,6 +58,4 @@ Si deseas contribuir a este proyecto, por favor abre un issue o envía un pull r
 
 Proyecto creado como parte del Bootcamp de Análisis de Datos de Upgrade Hub.
 =======
-# Clase_Documentaci-n
-Streamlit
->>>>>>> c57af83b16f37e5a3ab8112361c33836d53ad50a
+
